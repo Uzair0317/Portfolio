@@ -37,3 +37,19 @@
   width: 100%;
   height: auto;
 }
+.Header{
+  background-color: lightslategray;
+  color: floralwhite;
+  border-radius: 1000px;
+  border-style: dotted;
+}
+.Header-buttons{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 20px;
+  font-style: italic;
+  font-weight: 1000;
+  height: 50px;
+  font-size: 30px;
+}
